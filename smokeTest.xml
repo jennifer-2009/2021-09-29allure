@@ -4,6 +4,7 @@
     <test name="smoke" >
         <classes>
             <class name="moduleOne.SearchTest" />
+            <class name="RestAPI.APIEnd2End"></class>
         </classes>
     </test>
 
